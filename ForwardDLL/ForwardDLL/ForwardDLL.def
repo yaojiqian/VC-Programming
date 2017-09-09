@@ -1,0 +1,6 @@
+
+LIBRARY FORWARD_LIB
+
+EXPORTS
+	ForwardFunc1=SampleDLL32.Func1
+	Func3=Func3

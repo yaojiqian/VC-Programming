@@ -1,0 +1,8 @@
+
+LIBRARY SAMPLEDLL32
+DESCRIPTION "This is a sample dll"
+
+EXPORTS
+	Func1=Func1
+	Func2=Func2
+
